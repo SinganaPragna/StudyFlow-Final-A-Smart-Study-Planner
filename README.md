@@ -18,4 +18,3 @@ http://localhost:5173
 
 Spring Boot runs on `http://localhost:8090/api` so it does not conflict with Jenkins on `8080`.
 
-For complete setup and startup commands, see [replit.md](./replit.md).
