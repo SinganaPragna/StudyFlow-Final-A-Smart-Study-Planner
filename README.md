@@ -33,15 +33,61 @@ The application is designed to improve productivity and time management by enabl
 ### Database
 - MySQL
 
+  ## Screenshots
+
+### Home Page
+![Home](Screenshots/home.png)
+
+### Features Section
+![Features](Screenshots/features.png)
+
+### How It Works
+![How It Works](Screenshots/how-it-work.png)
+
+### Theme Toggle
+![Theme Toggle](Screenshots/them-toggler.png)
+
+### Sign Up
+![Sign Up](Screenshots/sign-up.png)
+
+### Sign In
+![Sign In](Screenshots/sign-in.png)
+
+### Dashboard
+![Dashboard](Screenshots/dashboard.png)
+
+### Subject Management
+![Subjects](Screenshots/subjects.png)
+
+### Subject Creation
+![Subject Creation](Screenshots/subject-creation.png)
+
+### Notes Management
+![Notes](Screenshots/notes.png)
+
+### Timetable Creation
+![Timetable Creation](Screenshots/timetable-creation.png)
+
+### Timetable Generation
+![Timetable Generation](Screenshots/timetable-generation.png)
+
+### Download Timetable
+![Download Timetable](Screenshots/download-timetable.png)
+
+### Progress Tracking
+![Progress Tracking](Screenshots/progress.png)
+
 ## Project Architecture
 
+```text
 Frontend (React + Vite)
-↓
-REST API
-↓
+        ↓
+      REST API
+        ↓
 Spring Boot Backend
-↓
-MySQL Database
+        ↓
+   MySQL Database
+```
 
 ## Local Setup
 
